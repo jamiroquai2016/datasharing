@@ -8,7 +8,7 @@ This is a guide for anyone who needs to share data with a statistician. The targ
 * Junior statistics students whose job it is to collate/clean data sets
 
 The goals of this guide are to provide some instruction on the best way to share data to avoid the most common pitfalls
-and sources of delay in the transition from data collection to data analysis. The [Leek group](http://biostat.jhsph.edu/~jleek/) works with a large
+and sources of delay in the transition from data collection to data analysis. The [Leek group](http://www.pokefortress.com/) works with a large
 number of collaborators and the number one source of variation in the speed to results is the status of the data
 when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.
 
@@ -26,7 +26,7 @@ What you should deliver to the statistician
 For maximum speed in the analysis this is the information you should pass to a statistician:
 
 1. The raw data.
-2. A [tidy data set](http://vita.had.co.nz/papers/tidy-data.pdf) 
+2. A [tidy data set](http://www.pokefortress.com/) 
 3. A code book describing each variable and its values in the tidy data set.  
 4. An explicit and exact recipe you used to go from 1 -> 2,3 
 
@@ -40,7 +40,7 @@ raw form of data:
 
 * The strange [binary file](http://en.wikipedia.org/wiki/Binary_file) your measurement machine spits out
 * The unformatted Excel file with 10 worksheets the company you contracted with sent you
-* The complicated [JSON](http://en.wikipedia.org/wiki/JSON) data you got from scraping the [Twitter API](https://twitter.com/twitterapi)
+* The complicated [JSON](http://en.wikipedia.org/wiki/JSON) data you got from scraping the [Twitter API](http://www.pokefortress.com/)
 * The hand-entered numbers you collected looking through a microscope
 
 You know the raw data is in the right format if you: 
